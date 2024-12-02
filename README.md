@@ -21,17 +21,12 @@ To get a local copy up and running, follow these simple steps:
    git clone https://github.com/Kubomu/FlutterApps.git
    ```
 
-2. **Navigate to the project directory**:
-   ```sh
-   cd FlutterApps
-   ```
-
-3. **Install dependencies**:
+2. **Install dependencies**:
    ```sh
    flutter pub get
    ```
 
-4. **Run the app**:
+3. **Run the app**:
    ```sh
    flutter run
    ```
