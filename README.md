@@ -69,38 +69,3 @@ Contributions are what make the open-source community such an amazing place to l
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-### Contact
-
-Kubomu Edwin - [@Kubomu](https://github.com/Kubomu) - kubomuedwin@example.com
-
-Project Link: [https://github.com/Kubomu/FlutterApps](https://github.com/Kubomu/FlutterApps)
-
-### Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc.
-
-## Resources
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-uting**:
-   - Guidelines for contributing to the project.
-
-7. **License**:
-   - Information about the project's license.
-
-8. **Contact**:
-   - Contact information for the project maintainer.
-
-9. **Acknowledgments**:
-   - Acknowledgments for any code, inspiration, etc.
-
-10. **Resources**:
-    - Additional resources for learning Flutter.
-
-
