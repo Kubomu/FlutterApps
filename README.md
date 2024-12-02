@@ -47,7 +47,20 @@ This project is a simple Flutter application that displays fun facts. You can us
 - View previous fun facts.
 - Toggle between light and dark themes.
 
+## Screenshots
+
+### Home Screen
+![Home Screen](assets/screenshots/darkmode.png)
+
+### Fact Screen
+![Fact Screen](assets/screenshots/lightmode.png)
+
+### Previous facts
+![Share Screen](assets/screenshots/previous.png)
+
+
 ### Contributing
+
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
