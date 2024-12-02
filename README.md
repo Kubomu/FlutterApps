@@ -88,27 +88,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
-```
-
-### Explanation of Sections
-
-1. **Getting Started**:
-   - Provides an overview of the project and instructions on how to set it up.
-
-2. **Prerequisites**:
-   - Lists the requirements needed before setting up the project.
-
-3. **Installing**:
-   - Step-by-step instructions on how to clone the repository, navigate to the project directory, install dependencies, and run the app.
-
-4. **Usage**:
-   - Describes what the project does and how to use it.
-
-5. **Features**:
-   - Lists the key features of the app.
-
-6. **Contributing**:
+uting**:
    - Guidelines for contributing to the project.
 
 7. **License**:
